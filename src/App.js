@@ -46,7 +46,7 @@ export default function App() {
         flexDirection: 'column',
       }}
     >
-      <h1> Random Color Generator </h1>
+      <h1>Random Color Generator</h1>
       <h2> {color} </h2>
 
       <div className="select-container">
